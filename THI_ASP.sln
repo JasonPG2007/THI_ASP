@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLibrary", "ModelLibrary\ModelLibrary.csproj", "{8733116B-76C5-48DC-B1CA-CF77B6B34311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaNangShop_NGUYEN_QUOC_BAO_AN", "DaNangShop_NGUYEN_QUOC_BAO_AN\DaNangShop_NGUYEN_QUOC_BAO_AN.csproj", "{B6694181-437F-4362-A1EF-F7DE7D2608B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8733116B-76C5-48DC-B1CA-CF77B6B34311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8733116B-76C5-48DC-B1CA-CF77B6B34311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8733116B-76C5-48DC-B1CA-CF77B6B34311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8733116B-76C5-48DC-B1CA-CF77B6B34311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6694181-437F-4362-A1EF-F7DE7D2608B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6694181-437F-4362-A1EF-F7DE7D2608B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6694181-437F-4362-A1EF-F7DE7D2608B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6694181-437F-4362-A1EF-F7DE7D2608B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194E3F39-F45B-4F65-8DEF-B93CF5551D15}
+	EndGlobalSection
+EndGlobal
